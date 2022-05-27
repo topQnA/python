@@ -1,7 +1,7 @@
 # Links
 
 **Memory Management**
-- https://www.altqna.com/questions/why-java-and-python-garbage-collection-methods-are-different-21934.html
+- [Why Java and Python garbage collection methods are different?](https://www.altqna.com/questions/why-java-and-python-garbage-collection-methods-are-different-21934.html)
 
 
 **Threads**
